@@ -1,4 +1,4 @@
-# [TAS] I Wanna Kill The Guy 100% in 34:22.22
+# [TAS] I Wanna Kill The Guy 100% in 34:18.27
 This repository contains files required to playback this TAS. You would need to playback .gmtas file presented here to watch this TAS on your machine. Check https://github.com/OpenGMK/OpenGMK for instructions on running the playback.
 
 Notes:
